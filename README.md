@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ6cDV4Z3Jtcmh6aTRka2d6ZGk5bnh2NXY4anRmY2E4ZWhqbzQ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RsMHA5cG51MmNhN3hlbnRnMHgzZHhuMGx5eGxkMmVnYzM4YWE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZJZS4VPcjlZtKwuX5n/giphy.gif" width="170"/>
   <div id="badges" align="center">
   <a href="https://t.me/SMYTAX">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=Odiosus&color=red&style=plastic"/>
+  <img src="https://komarev.com/ghpvc/?username=Odiosus&color=grey&style=plastic"/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -17,6 +17,7 @@
 </div>
 
 ---
+
 
 
 <!--

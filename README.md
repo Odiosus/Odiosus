@@ -4,6 +4,9 @@
   <a href="https://t.me/SMYTAX">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
+    <a href="mailto:suchkow@icloud.com">
+    <img src="https://img.shields.io/badge/Send Mail-blue?logo=mail&logoColor=white&style=plastic" alt="Mail Badge"/>
+  </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=Odiosus&color=grey&style=plastic"/>

@@ -51,7 +51,7 @@
 </div>
 
 ---
-### :fire: Моя (пока ещё скромная) статистика:
+### :fire: Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Odiosus&theme=dark&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiosus&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)

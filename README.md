@@ -11,8 +11,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=Odiosus&color=grey&style=plastic"/>
   <h1>
-    Привет
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Бу!
   </h1>
 </div>
 <div align="center">

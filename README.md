@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Odiosus&rank=-?&theme=monokai&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Odiosus&rank=-?&theme=onedark&no-bg=true&no-frame=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Odiosus&theme=dark&locale=ru)](https://git.io/streak-stats)
 

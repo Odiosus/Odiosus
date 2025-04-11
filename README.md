@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/📧 Send Mail-blue?logo=mail&logoColor=white&style=plastic" alt="Mail Badge"/>
   </a>
   </div>
-  
+
   <img src="https://komarev.com/ghpvc/?username=Odiosus&color=grey&style=plastic"/>
   <h1>
     Бу!
@@ -21,18 +21,22 @@
 ---
 
 ### :man_technologist: Обо мне:
+
 :snake: Python-разработчик.
+
 - :telescope: Мне интересно заниматься разработкой на Python и не только.
 
 - :zap: В свободное время читаю тематические статьи и телеграм-каналы.
 
 - :floppy_disk: В прошлом: консультант по налогам и сборам.
 
-- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic)](https://t.me/SMYTAX)
+- :mailbox: Связаться со
+  мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic)](https://t.me/SMYTAX)
 
 ---
 
 ### :hammer_and_wrench: Языки и инструменты:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;  
@@ -50,10 +54,17 @@
 </div>
 
 ---
+
 ### :fire: Моя статистика:
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Odiosus&rank=-?&theme=monokai&no-bg=true&no-frame=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Odiosus&theme=dark&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiosus&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=96449353)

@@ -1,8 +1,8 @@
-# Привет! :trollface:
+# Привет!
 
-На связи высокоэффективный фронтендер с бэкграундом бэкендера :shipit:
+На связи высокоэффективный фронтендер с бэкграундом бэкендера  :shipit:
 
-Пиши скорее! Поболтаем, поработаем :dizzy:
+Пиши скорее! Поболтаем, поработаем  :dizzy:
 <div align="left">
 <a href="https://t.me/SMYTAX">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
@@ -21,9 +21,8 @@
  Что-то ещё обо мне там :point_down: 
 </summary>
 
-## :mag_right: Флэш-обзор 
+## :mag: Флэш-обзор 
 
----
 ### :ok_hand: Статистика
 [![GitHub Streak](https://streak-stats.demolab.com?user=Odiosus&theme=dark&locale=ru)](https://git.io/streak-stats)
 
@@ -35,9 +34,7 @@
 |-------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------|
 | Легко масштабируемый лендинг для <br/> юридической компнаии | Next.js / TS / Tailwind / nodemailer <br/> Деплой (reg.ru) | [fidusfortis.com](https://fidusfortis.com) | Тут: [fidusfortis.com](https://fidusfortis.com) |
 
-## :muscle: Скиллы 
-
----
+## :bomb: Скиллы 
 
 ### :muscle: Хард
 
@@ -72,7 +69,7 @@
 ### :shipit: Интересы и планы
 
 - :underage: Углубить и расширить познания в веб-разработке
-- :trophy: Замутить крутую коллабу и создать нереальный проект
+- :trophy: Замутить крутую коллабу и создать очередной нереальный проект
 - :deciduous_tree: Поглядеть на леса Амазонки
 
 ---

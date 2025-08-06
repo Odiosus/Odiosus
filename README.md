@@ -18,7 +18,7 @@
 </div>
 <details>
 <summary>
- :point_down: Что-то ещё обо мне
+ Что-то ещё обо мне там :point_down: 
 </summary>
 
 ## :mag_right: Флэш-обзор 

@@ -40,13 +40,15 @@
 
 #### :computer: Фронт: 
 - **JavaScript** / **TypeScript**
-- **HTML** / **CSS** / **SCSS** / **Tailwind**
-- **React.js** / **Next.js** 
+- **HTML5** / **CSS3 (Sass, Less, Styled-Components, Tailwind)**
+- **React.js** / **Next.js**
+- **Vite**
+- **REST API**
 
 #### :tv: Бэк:
 - **Python**
 - **PostgreSQL** / **SQLite** 
-- **API** / **REST**
+- **REST API**
 - **Django** / **Django Rest Framework**
 
 #### :octocat: Инструменты:
@@ -58,6 +60,8 @@
 - **Postman**
 - **Swagger**
 - **Figma**
+- **ESLint** / **Prettier**
+- **Vercel**
 
 ### :neckbeard: Софт-скиллы
 
